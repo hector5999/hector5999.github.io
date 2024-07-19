@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Painting with AI
 
-Curso proyecto
+Final project for the Building AI course
 
 ## Summary
 
